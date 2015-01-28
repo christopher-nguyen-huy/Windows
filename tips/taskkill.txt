@@ -1,0 +1,21 @@
+taskkill /IM notepad.exe
+	/F to force kill
+taskkill /PID 827
+Filters
+	taskkill /F /FI "USERNAME eq Quinn"
+	Filter Name Valid Operators Valid Value(s)
+	STATUS eq ne RUNNING | NOT RESPONDING
+	IMAGENAME eq ne Image name
+	PID eq ne gt lt ge le PID value
+	SESSION eq ne gt lt ge le Session number.
+	CPUTIME eq ne gt lt ge le CPU time in the format
+	of hh:mm:ss.
+	MEMUSAGE eq ne gt lt ge le Memory usage in KB
+	USERNAME eq ne User name in [domain\]user
+	format
+	MODULES eq ne DLL name
+	SERVICES eq ne Service name
+	WINDOWTITLE eq ne Window title
+	
+	eq: equals ne: not equal gt: greater than lt: less than
+	gt: greater than or equal le: less than or equal
