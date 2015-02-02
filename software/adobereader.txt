@@ -1,0 +1,7 @@
+Disable
+	PDF in browser
+	Updates
+	Acrobat JS
+	Digital Signature
+	Trusted certificates
+	Updater

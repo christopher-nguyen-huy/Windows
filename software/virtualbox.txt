@@ -1,0 +1,7 @@
+Download
+	Installer
+	VboxExtentions
+Disable
+	Updater
+Setup
+	Remap Default machine location
