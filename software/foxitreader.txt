@@ -1,0 +1,33 @@
+For V7
+
+Ressource hacker the executable
+File
+	Change skin
+Accessiblity
+	Color scheme
+Commenting
+	Disable Click to create annotation
+Document
+	Allow multiple instances
+Forms
+	Disable Autocomplete
+Full Screen
+	Disable One page at a time
+	Ignore all transitions
+General
+	Disable start page
+	Disable advertisement
+History
+	Disable Restore last session
+	Disable Restore last view
+	Max number of docs in recent docs : 10
+Spelling
+	Disable spell check
+Tablet settings
+	Disable pressure sensitive
+Trust Manager
+	Disable js
+Updater
+	Disable
+	
+Empty Quick Access Toolbar
