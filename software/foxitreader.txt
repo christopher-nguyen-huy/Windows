@@ -21,6 +21,8 @@ History
 	Disable Restore last session
 	Disable Restore last view
 	Max number of docs in recent docs : 10
+Speech
+	Disable Read comments
 Spelling
 	Disable spell check
 Tablet settings
