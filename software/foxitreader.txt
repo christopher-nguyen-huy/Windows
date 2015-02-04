@@ -1,5 +1,5 @@
 For V7
-
+Uninstall FoxitCloud
 Ressource hacker the executable
 File
 	Change skin
