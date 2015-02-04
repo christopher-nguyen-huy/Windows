@@ -21,6 +21,8 @@ History
 	Disable Restore last session
 	Disable Restore last view
 	Max number of docs in recent docs : 10
+Page Display
+	Forbid zoom change when using goto
 Speech
 	Disable Read comments
 Spelling
@@ -33,3 +35,9 @@ Updater
 	Disable
 	
 Empty Quick Access Toolbar
+Customize Ribbon
+	Remove Tabs
+		Protect
+		Share
+		Comment
+
