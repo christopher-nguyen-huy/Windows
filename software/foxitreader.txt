@@ -13,6 +13,7 @@ Forms
 	Disable Autocomplete
 Full Screen
 	Disable One page at a time
+	Disable Show exit button
 	Ignore all transitions
 General
 	Disable start page
